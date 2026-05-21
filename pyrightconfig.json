@@ -1,0 +1,11 @@
+{
+  "include": ["*.py"],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonVersion": "3.9"
+    }
+  ],
+  "venvPath": ".",
+  "venv": ".venv"
+}

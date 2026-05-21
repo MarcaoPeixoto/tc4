@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+scikit-learn
+torch
+fastapi
+uvicorn[standard]
